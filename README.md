@@ -1,1 +1,1 @@
-# Sentimental-Analysis_based_on-Restautarant_reviews
+# Sentimental-Analysis_based_on-Restaurant_reviews
